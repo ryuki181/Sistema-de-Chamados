@@ -1,2 +1,5 @@
-# Sistema-de-Chamados
-Projeto do Prof Calebe / ES2
+# SistemaChamados
+Projeto de ES II - Prof. Calebe
+
+Link Travis:
+https://travis-ci.org/ryuki181/SistemaChamados

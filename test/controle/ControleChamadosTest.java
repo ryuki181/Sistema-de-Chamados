@@ -6,10 +6,9 @@
 package controle;
 
 import entidade.Chamado;
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
+import entidade.ClienteEmpresa;
+import entidade.RegistroChamado;
+import entidade.Tecnico;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
